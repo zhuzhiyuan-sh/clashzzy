@@ -10,13 +10,14 @@ DOMAIN-SUFFIX,hao123.com
 DOMAIN-KEYWORD,baidu
 
 # IP段匹配
-IP-CIDR,219.146.1.66/32,no-resolve
+IP-CIDR,218.85.157.99/32,no-resolve
 
 # 国内DNS
 DOMAIN-SUFFIX,dns.alidns.com
 DOMAIN-SUFFIX,doh.pub
-IP-CIDR,219.146.1.66/32,no-resolve
-IP-CIDR,219.147.1.66/32,no-resolve
+IP-CIDR,202.96.199.132/32,no-resolve
+IP-CIDR,202.96.75.64/32,no-resolve
+
 IP-CIDR,119.29.29.29/32,no-resolve
 IP-CIDR,223.5.5.5/32,no-resolve
 IP-CIDR,223.6.6.6/32,no-resolve
@@ -216,7 +217,7 @@ DOMAIN-SUFFIX,meitustat.com
 DOMAIN-SUFFIX,meipai.com
 
 # LeTV 乐视
-DOMAIN-SUFFIX,le.com
+# DOMAIN-SUFFIX,le.com
 DOMAIN-SUFFIX,lecloud.com
 DOMAIN-SUFFIX,letv.com
 DOMAIN-SUFFIX,letvcloud.com
