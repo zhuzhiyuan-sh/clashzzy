@@ -11,7 +11,7 @@ DOMAIN-KEYWORD,baidu
 
 # IP段匹配
 IP-CIDR,218.85.157.99/32,no-resolve
-
+IP-CIDR,114.86.75.161/32,no-resolve
 # 国内DNS
 DOMAIN-SUFFIX,dns.alidns.com
 DOMAIN-SUFFIX,doh.pub
